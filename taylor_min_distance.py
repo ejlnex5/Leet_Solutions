@@ -5,3 +5,4 @@ class Solution:
             dist += max(abs(x0 - x1), abs(y0 - y1))
 
         return dist
+#Commenting stuff because I'm crazy.
